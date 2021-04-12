@@ -10,7 +10,3 @@ I manage a team of developers & designers, ensuring we are moving at a rapid & i
 - 📫 How to reach me: Send me an email at [summit@truckbux.com](mailto:summit@truckbux.com)
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I have a :dog: named Oreo
-
-![Summit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=summitsingh&count_private=true&show_icons=true)
-
-![Summit's Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=summitsingh&layout=compact)
